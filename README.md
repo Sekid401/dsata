@@ -176,5 +176,12 @@ Is this a full SATA implementation? Answer: yes and no that's my answer
 
 - QnA -
 
-What are you waiting for? Microsoft releasing windows 12 and windows 12 actually being better than windows 11? Get dSATA Today!
+- Coolest Features -
+
+- DPE - a Feature that turns your dSATA portable instantly -
+
+- DAHCI - Allows you to do more things with dSATA! -
+
+- Coolest Features end -
+
 What are you waiting for? Microsoft releasing windows 12 and windows 12 actually being better than windows 11? Get dSATA Today!
